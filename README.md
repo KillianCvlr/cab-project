@@ -1,7 +1,8 @@
 # Cab Project
 
 ## Personal note
-This is the cab project that I ppresented for my TIPE in 2021.
+This is the cab project that I presented for my TIPE in 2021. It was not meant to be published in the first place so tis written in French.
+Programming in Ocaml was mandatory however I would prefer Python or C++ if it was to be made again.
 
 ## Goal
 The main goal of this project is to reduce the length of the route taken by a cab that needs to bring client to their destination in turns.
